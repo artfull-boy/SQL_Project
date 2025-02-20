@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/console": "^7.2",
+        "symfony/finder": "^7.2",
+        "league/csv": "^9.21.0"
+    }
+}
